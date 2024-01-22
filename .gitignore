@@ -1,0 +1,7 @@
+# Local folders
+.vscode
+local
+
+# Local build
+main
+*.o
